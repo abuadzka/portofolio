@@ -1,5 +1,5 @@
 // Isi URL Web App Apps Script (/exec) setelah backend dipasang. Biarkan kosong untuk memakai config.js lokal.
-window.ABUADZKA_BACKEND_URL = https://script.google.com/macros/s/AKfycbz5SB1eF-_dtI7zjLDIdhakJ4XuN9NPGAjvFTiY4iaPAxGWvLe6vV36351eM3S54MK4fQ/exec';
+window.ABUADZKA_BACKEND_URL = 'https://script.google.com/macros/s/AKfycbz5SB1eF-_dtI7zjLDIdhakJ4XuN9NPGAjvFTiY4iaPAxGWvLe6vV36351eM3S54MK4fQ/exec';
 // Edit file ini untuk mengubah isi website tanpa menyentuh HTML/CSS.
 // Setelah diedit, refresh halaman untuk melihat perubahan.
 window.PORTFOLIO_CONFIG = {
